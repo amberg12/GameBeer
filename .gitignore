@@ -1,0 +1,7 @@
+# IDE
+.idea/**/*
+
+# Build
+GameBeer
+build/*
+compile_commands.json
